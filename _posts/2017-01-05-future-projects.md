@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Future Projects
 published: true
 date: 2017-01-05
 categories: [blogging]
