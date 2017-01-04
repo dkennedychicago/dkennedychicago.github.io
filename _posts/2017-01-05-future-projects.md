@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-published: false
+published: true
 date: 2017-01-05
 categories: [blogging]
 tags: [blogging, brainteasing]
